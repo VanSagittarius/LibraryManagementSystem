@@ -1,3 +1,3 @@
 # LibraryManagementSystem
-## A library management system with Python, Tkinter with decent UI (😁) and SQL.
+## A library management system using Python, Tkinter UI and SQL.
 ![](LibraryArt.png)
